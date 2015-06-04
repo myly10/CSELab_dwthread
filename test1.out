@@ -1,0 +1,25 @@
+[main]main tid = 1
+[main]create thread 2
+[main]create thread 3
+[main]create thread 4
+[3]Started
+[3]create thread 5
+[4]Started
+[4]create thread 6
+[5]Started
+[6]Started
+[2]Started
+[2]create thread 7
+[7]Started
+[6]return
+[7]return
+[2]7 returned with 7
+[2]return
+[4]6 returned with 6
+[4]return
+[main]2 returned with 2
+[main]4 returned with 4
+[5]return
+[3]5 returned with 5
+[3]return
+[main]3 returned with 3

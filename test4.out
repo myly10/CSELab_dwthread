@@ -1,0 +1,16 @@
+[main]main tid = 1
+[main]create thread 2
+[main]create thread 3
+[main]create thread 4
+[3] is running
+[4] is running
+[2] is running
+[3] is running
+[4] is running
+[2] is running
+[3] is running
+[4] is running
+[2] is running
+[main]3 returned with 3
+[main]4 returned with 4
+[main]2 returned with 2

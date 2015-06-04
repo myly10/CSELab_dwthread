@@ -1,0 +1,4 @@
+Before jmp
+Setjump OK
+Before longjump
+After longjump
